@@ -1,0 +1,10 @@
+Date: 17/7/2024
+Time: 8:15
+Phone Number: +5493854742118
+Message: Hola, este es un mensaje enviado desde Python usando pywhatkit!
+--------------------
+Date: 17/7/2024
+Time: 8:19
+Phone Number: +5493854742118
+Message: Hola, este es un mensaje enviado desde Python usando pywhatkit!
+--------------------
